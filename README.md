@@ -21,7 +21,7 @@ To complete this project, you will need to:
 To use the `knightMoves` function:
 
 ```js
-import knightMoves from knightMoves
+import knightMoves from "./knightMoves.js"
 
 // Example usage:
 console.log(`${JSON.stringify(knightMoves([3, 3], [4, 3]))}`);
