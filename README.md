@@ -8,7 +8,7 @@ The Knight's Tour is a classic problem in chess where the objective is to find a
 
 ## Project Requirements
 
-To complete this project, you will need to:
+To complete this project, I had to:
 
 1. Implement the `knightMoves` function.
 2. Choose an appropriate data structure to represent the chessboard and knight's movements.
